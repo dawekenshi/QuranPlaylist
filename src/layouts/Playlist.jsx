@@ -5,6 +5,7 @@ export default function Playlist() {
                 <iframe
                     height="300" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1415113648&color=%2322a25a&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">
                 </iframe>
+                <iframe height="300" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1255015546&color=%2322a25a&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
             </div>
         </main>
     )
